@@ -95,17 +95,16 @@ Le prototype doit proposer, via des formulaires graphiques : [file:92]
 
 ---
 
-## 🚀 Mise en place (exemple)
-
-text
 ## 🚀 Installation et exécution
 
 1. **Cloner le dépôt**
 
-git clone https://github.com/<votre-utilisateur>/<nom-du-projet>.git
-cd <nom-du-projet>
+mkdir SunuBEFM
 
-text
+git clone https://github.com/BemvindoTech/SunuBFEM.git
+
+cd SunuBEFM
+
 
 2. **Créer un environnement virtuel**
 
